@@ -8,8 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medzdev&layout=compact&langs_count=7&theme=midnight-purple"/>
   ---
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-medzeraa_-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/medzeraa_)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gabriel-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/medzdev/)
-  [![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/medzdev)<br><br>
+  
+ <a href="https://instagram.com/medzdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/medzdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "https://www.twitter.com/ga_medz/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/medzeraa" target="_blank"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:medzdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![Snake animation](https://github.com/medzdev/medzdev/blob/output/github-contribution-grid-snake.svg)
+  
+  
   
     
