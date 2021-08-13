@@ -1,9 +1,8 @@
 ### Hi there, Gabriel here! 😁👨‍💻
-- 🔭 I'm currently working for the Solutions Infrastructure Team at <a href="https://www.v2com.com">V2COM</a>.<br>
+Solutions Infrastructure Team at <a href="https://www.v2com.com">V2COM</a>.<br>
 <br>![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
-- 🌟 Building a better world with tech and science!<br><br>
+    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medzdev&layout=compact&langs_count=7&theme=midnight-purple"/>
   ---
