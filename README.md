@@ -10,6 +10,7 @@
  <a href = "https://www.twitter.com/ga_medz/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/medzeraa" target="_blank"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:medzdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
   ![Snake animation](https://github.com/medzdev/medzdev/blob/output/github-contribution-grid-snake.svg)
   
   
