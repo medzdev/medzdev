@@ -4,5 +4,5 @@
 
 <a href="https://instagram.com/medzdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/medzdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.twitter.com/gamediotti/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/medzeraa" target="_blank"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+
+
